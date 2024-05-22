@@ -11,7 +11,7 @@
   - HTML
   - CSS
   - Javascript 
-- 前端(Client-side Framework)框架 ==> 三大主流前端框架 Vue.js react.js AngularJS
+- 前端框架 (Client-side Framework)==> 三大主流前端框架 Vue.js react.js AngularJS
   - [Vue 3](https://www.runoob.com/vue3/vue3-tutorial.html) 
     - https://cn.vuejs.org/guide/introduction.html
   - [React 教程](https://www.runoob.com/react/react-tutorial.html)
@@ -21,7 +21,9 @@
     - [AngularJS 範例程式](https://www.runoob.com/angularjs/angularjs-examples.html)
     - [AngularJS 參考手冊](https://www.runoob.com/angularjs/angularjs-reference.html)
   - Chart.js 
-    - [Chart.js 教程](https://www.runoob.com/chartjs/chartjs-tutorial.html) 
+    - [Chart.js 教程](https://www.runoob.com/chartjs/chartjs-tutorial.html)
+  - d3.js
+  - Tensorflow.js 
 - 伺服器端(Server-side): 
   - Python
     - flask
