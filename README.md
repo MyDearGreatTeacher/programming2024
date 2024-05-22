@@ -11,7 +11,7 @@
   - HTML
   - CSS
   - Javascript 
-- 前端(Client-side) ==> 三大主流前端框架 Vue.js react.js AngularJS
+- 前端(Client-side Framework)框架 ==> 三大主流前端框架 Vue.js react.js AngularJS
   - [Vue 3](https://www.runoob.com/vue3/vue3-tutorial.html) 
     - https://cn.vuejs.org/guide/introduction.html
   - [React 教程](https://www.runoob.com/react/react-tutorial.html)
