@@ -6,6 +6,7 @@
 - C++
 - JAVA
 - C#
+
 ## 網站程式設計(Web Programming)
 - 前端(Client-side):
   - HTML
@@ -31,3 +32,10 @@
   - [Node.js 教程](https://www.runoob.com/nodejs/nodejs-tutorial.html)
   - PHP
   - ASP.NET | ASP.NET Core
+
+## 手機程式設計(Mobile Programming)
+- Android programming
+- Kotlin programming
+- iOS/swift Programming
+
+## 雲端原生程式開發(Cloud Native)
