@@ -8,7 +8,7 @@
 - C# ==> asp.net ==> 物件導向程式開發
 
 ## 網站程式設計(Web Programming)
-- 前端(Client-side):
+- 前端(Client-side): ==> 程式碼是下載到瀏覽器執行
   - HTML
   - CSS
   - Javascript
