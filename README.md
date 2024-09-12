@@ -1,11 +1,11 @@
 # programming2024 程式設計
 
-# 程式設計
-- python
-- C
-- C++
-- JAVA
-- C# ==> asp.net
+# 程式設計 interpreter vs compiler
+- python ==> interpreter 
+- C ==> 結構化程式開發
+- C++ ==> 物件導向程式開發
+- JAVA ==> 物件導向程式開發
+- C# ==> asp.net ==> 物件導向程式開發
 
 ## 網站程式設計(Web Programming)
 - 前端(Client-side):
