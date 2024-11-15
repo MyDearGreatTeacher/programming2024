@@ -42,10 +42,11 @@
 
 # C++
 - [C++ Primer, 5/e (繁體中文版)|Stanley B. Lippman等 黃銘偉](https://www.tenlong.com.tw/products/9789865021726?list_name=srh)
+  - https://cpp-primer.pages.dev/
+  - [習題解答|C++ Primer 習題集, 5/e (簡體中文版) C++ Primer习题集(第5版)](https://www.tenlong.com.tw/products/9787121252297?list_name=srh) 
 - [現代C++安全 Embracing Modern C++ Safely](https://www.tenlong.com.tw/products/9787111760290?list_name=srh)
 - [Online C++ Compiler - Programiz](https://www.programiz.com/cpp-programming/online-compiler/)
 
 # C#
 - [Visual C# 從入門到精通, 10/e Microsoft Visual C# Step by Step 10th|[英] 約翰·夏普（John Sharp）著 周靖 兒](https://www.tenlong.com.tw/products/9787302617648?list_name=srh)
-
 - [Online C# Compiler (Editor)](https://www.programiz.com/csharp-programming/online-compiler/)
