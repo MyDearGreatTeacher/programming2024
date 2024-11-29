@@ -1,4 +1,32 @@
 #
+```
+第18章 物件導向程式設計技術(一)
+18-1 程序導向與物件導向程式設計
+18-2 類別與物件
+18-3 屬性與存取子
+18-4 方法多載
+18-5 建構函式
+18-6 靜態成員
+18-7 習題
+
+第19章 物件導向程式設計技術(二)
+19-1 繼承(inheritance)
+19-2 多型(polymorphism)
+19-3 介面與實作
+19-4 委派(delegate)
+19-5 習題
+
+第20章 集合/泛型
+20-1 集合(collection)
+20-2 ArrayList類別
+20-3 Queue類別
+20-4 Stack類別
+20-5 Hashtable類別
+20-6 SortedList類別
+20-7 泛型(generics)
+20-8 習題
+
+```
 # 參考資料
 - [ET32406	從零開始學 Visual C# 2022 程式設計(第四版)|李馨](https://www.drmaster.com.tw/Bookinfo.asp?BookID=ET32406)
 - [MP22129	Visual C# 2019程式設計完全解析(I)：帶著新手打穩程式基礎](https://www.drmaster.com.tw/Bookinfo.asp?BookID=MP22129)
