@@ -38,7 +38,18 @@ Console.WriteLine(Environment.OSVersion.VersionString);
 
 ## 
 ```c#
+using System;
 
+namespace Ex0104
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
 ```
 
 
